@@ -42,15 +42,14 @@
   * **데이터베이스:** 상품 기능 관련 SQL 테이블 설계 및 매핑
   * **디자인 & UI:** 서비스 로고 직접 디자인, 슬라이드인(Slide-in) 효과 등을 활용한 깔끔한 UI/UX 구현
 
-### ☕ 잔너머 (Jan-neomeo)
-**[여기에 서비스의 목적이나 한 줄 소개를 적어주세요. 예: 개인 카페 추천 및 리뷰 서비스]**
+### 🍷 잔너머 (OverTheGlass)
+**혼술족 맞춤형 레시피 및 정보 공유 SNS 플랫폼 (1인 개발)**
 * **Repository:** [kewiibird-source/react_project_otg](https://github.com/kewiibird-source/react_project_otg)
-* **Tech Stack:** React, JavaScript, CSS
+* **Tech Stack:** React, Node.js, Express, Oracle
 * **Key Roles & Implementations:**
-  * React 기반 프론트엔드 UI 컴포넌트 개발
-  * [담당했던 핵심 기능 1 작성]
-  * [담당했던 핵심 기능 2 작성]
-
+  * **회원 및 인증 관리:** JWT(Access/Refresh) 기반 세션 제어 및 다중 소셜 로그인, 포트원 연동 성인 인증 도입
+  * **게시물 및 미디어:** 트랜잭션 처리를 통한 안정적인 다중 이미지 업로드 및 정규화된 해시태그 스크랩 기능 구현
+  * **인터랙션 및 알림:** 정규식을 활용한 멘션(@) 자동 파싱 및 5종 알림(좋아요, 댓글 등) 시스템 통합 개발
 ---
 
 ## 📬 Contact
